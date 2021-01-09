@@ -1,0 +1,8 @@
+Apple		1	1	0	0	0	3	5
+University		0	1	2	0	1	6	10
+Programming		1	0	1	1	0	8	11
+
+
+
+dream		1	1	0	0	0	3	5
+word		0	0	0	1	0	3	4
